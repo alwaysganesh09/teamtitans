@@ -136,13 +136,13 @@ const projectsData = [
 const resourcesData = [
     {
         id: 1,
-        title: 'React Best Practices Guide',
-        description: 'Comprehensive guide covering React development best practices, performance optimization, and common patterns.',
+        title: 'Html-Handwritten Notes',
+        description: 'Comprehensive guide covering HTML development best practices, performance optimization, and common patterns.',
         category: 'Documentation',
         fileType: 'PDF',
         size: '2.5 MB',
-        downloadUrl: 'assets/pdfs/11.pdf',
-        previewUrl: 'assets/pdfs/React-Best-Practices-Guide.pdf',
+        downloadUrl: 'assets/pdfs/HTML Handwritten Notes.pdf',
+        previewUrl: 'assets/pdfs/HTML Handwritten Notes.pdf',
         lastUpdated: '2024-01-15'
     },
     {
