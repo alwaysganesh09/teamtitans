@@ -145,61 +145,61 @@ const resourcesData = [
         previewUrl: 'assets/pdfs/HTML Handwritten Notes.pdf',
         lastUpdated: '2024-01-15'
     },
-    {
-        id: 2,
-        title: 'API Development Tutorial',
-        description: 'Step-by-step tutorial for building RESTful APIs with Node.js, Express, and MongoDB.',
-        category: 'Tutorials',
-        fileType: 'PDF',
-        size: '3.2 MB',
-        downloadUrl: 'assets/pdfs/API-Development-Tutorial.pdf',
-        previewUrl: 'assets/pdfs/API-Development-Tutorial.pdf',
-        lastUpdated: '2024-01-12'
-    },
-    {
-        id: 3,
-        title: 'Design System Template',
-        description: 'Complete design system template with components, tokens, and guidelines for consistent UI development.',
-        category: 'Templates',
-        fileType: 'PDF',
-        size: '5.8 MB',
-        downloadUrl: 'assets/pdfs/Design-System-Template.pdf',
-        previewUrl: 'assets/pdfs/Design-System-Template.pdf',
-        lastUpdated: '2024-01-10'
-    },
-    {
-        id: 4,
-        title: 'Machine Learning Research Paper',
-        description: 'Our latest research on computer vision applications in real-time object detection systems.',
-        category: 'Research Papers',
-        fileType: 'PDF',
-        size: '1.9 MB',
-        downloadUrl: 'assets/pdfs/Machine-Learning-Research-Paper.pdf',
-        previewUrl: 'assets/pdfs/Machine-Learning-Research-Paper.pdf',
-        lastUpdated: '2024-01-08'
-    },
-    {
-        id: 5,
-        title: 'Mobile App Development Guide',
-        description: 'Complete guide for cross-platform mobile app development using React Native and Flutter.',
-        category: 'Documentation',
-        fileType: 'PDF',
-        size: '4.1 MB',
-        downloadUrl: 'assets/pdfs/Mobile-App-Development-Guide.pdf',
-        previewUrl: 'assets/pdfs/Mobile-App-Development-Guide.pdf',
-        lastUpdated: '2024-01-05'
-    },
-    {
-        id: 6,
-        title: 'DevOps Pipeline Tutorial',
-        description: 'Learn how to set up CI/CD pipelines with GitHub Actions, Docker, and AWS deployment.',
-        category: 'Tutorials',
-        fileType: 'PDF',
-        size: '2.8 MB',
-        downloadUrl: 'assets/pdfs/DevOps-Pipeline-Tutorial.pdf',
-        previewUrl: 'assets/pdfs/DevOps-Pipeline-Tutorial.pdf',
-        lastUpdated: '2024-01-03'
-    }
+    // {
+    //     id: 2,
+    //     title: 'API Development Tutorial',
+    //     description: 'Step-by-step tutorial for building RESTful APIs with Node.js, Express, and MongoDB.',
+    //     category: 'Tutorials',
+    //     fileType: 'PDF',
+    //     size: '3.2 MB',
+    //     downloadUrl: 'assets/pdfs/API-Development-Tutorial.pdf',
+    //     previewUrl: 'assets/pdfs/API-Development-Tutorial.pdf',
+    //     lastUpdated: '2024-01-12'
+    // },
+    // {
+    //     id: 3,
+    //     title: 'Design System Template',
+    //     description: 'Complete design system template with components, tokens, and guidelines for consistent UI development.',
+    //     category: 'Templates',
+    //     fileType: 'PDF',
+    //     size: '5.8 MB',
+    //     downloadUrl: 'assets/pdfs/Design-System-Template.pdf',
+    //     previewUrl: 'assets/pdfs/Design-System-Template.pdf',
+    //     lastUpdated: '2024-01-10'
+    // },
+    // {
+    //     id: 4,
+    //     title: 'Machine Learning Research Paper',
+    //     description: 'Our latest research on computer vision applications in real-time object detection systems.',
+    //     category: 'Research Papers',
+    //     fileType: 'PDF',
+    //     size: '1.9 MB',
+    //     downloadUrl: 'assets/pdfs/Machine-Learning-Research-Paper.pdf',
+    //     previewUrl: 'assets/pdfs/Machine-Learning-Research-Paper.pdf',
+    //     lastUpdated: '2024-01-08'
+    // },
+    // {
+    //     id: 5,
+    //     title: 'Mobile App Development Guide',
+    //     description: 'Complete guide for cross-platform mobile app development using React Native and Flutter.',
+    //     category: 'Documentation',
+    //     fileType: 'PDF',
+    //     size: '4.1 MB',
+    //     downloadUrl: 'assets/pdfs/Mobile-App-Development-Guide.pdf',
+    //     previewUrl: 'assets/pdfs/Mobile-App-Development-Guide.pdf',
+    //     lastUpdated: '2024-01-05'
+    // },
+    // {
+    //     id: 6,
+    //     title: 'DevOps Pipeline Tutorial',
+    //     description: 'Learn how to set up CI/CD pipelines with GitHub Actions, Docker, and AWS deployment.',
+    //     category: 'Tutorials',
+    //     fileType: 'PDF',
+    //     size: '2.8 MB',
+    //     downloadUrl: 'assets/pdfs/DevOps-Pipeline-Tutorial.pdf',
+    //     previewUrl: 'assets/pdfs/DevOps-Pipeline-Tutorial.pdf',
+    //     lastUpdated: '2024-01-03'
+    // }
 ];
 
 // --- Certifications Data ---
